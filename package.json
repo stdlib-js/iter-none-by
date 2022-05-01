@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/iter-none-by",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Test whether every iterated value fails a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
